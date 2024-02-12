@@ -1,0 +1,251 @@
+movie_id,movie_name,movie_year,duration_min,rated,movie_rating,vote_count
+1,1. The Shawshank Redemption,1994,142,R,9.3,2900000.0
+2,2. The Godfather,1972,175,R,9.2,2000000.0
+3,3. The Dark Knight,2008,152,PG-13,9.0,2800000.0
+4,4. The Godfather Part II,1974,202,R,9.0,1400000.0
+5,5. 12 Angry Men,1957,96,Approved,9.0,853000.0
+6,6. Schindler's List,1993,195,R,9.0,1400000.0
+7,7. The Lord of the Rings: The Return of the King,2003,201,PG-13,9.0,2000000.0
+8,8. Pulp Fiction,1994,154,R,8.9,2200000.0
+9,9. The Lord of the Rings: The Fellowship of the Ring,2001,178,PG-13,8.9,2000000.0
+10,10. Forrest Gump,1994,142,PG-13,8.8,2200000.0
+11,11. The Lord of the Rings: The Two Towers,2002,179,PG-13,8.8,1800000.0
+12,12. Fight Club,1999,139,R,8.8,2300000.0
+13,13. Inception,2010,148,PG-13,8.8,2500000.0
+14,14. Star Wars: Episode V - The Empire Strikes Back,1980,124,PG,8.7,1400000.0
+15,15. The Matrix,1999,136,R,8.7,2000000.0
+16,16. Goodfellas,1990,145,R,8.7,1200000.0
+17,17. One Flew Over the Cuckoo's Nest,1975,133,R,8.7,1100000.0
+18,18. Interstellar,2014,169,PG-13,8.7,2100000.0
+19,19. It's a Wonderful Life,1946,130,PG,8.6,495000.0
+20,20. Se7en,1995,127,R,8.6,1800000.0
+21,21. The Silence of the Lambs,1991,118,R,8.6,1500000.0
+22,22. Saving Private Ryan,1998,169,R,8.6,1500000.0
+23,23. The Green Mile,1999,189,R,8.6,1400000.0
+24,24. Spider-Man: Across the Spider-Verse,2023,140,PG,8.6,344000.0
+25,25. Star Wars: Episode IV - A New Hope,1977,121,PG,8.6,1400000.0
+26,26. Terminator 2: Judgment Day,1991,137,R,8.6,1200000.0
+27,27. Back to the Future,1985,116,PG,8.5,1300000.0
+28,28. The Pianist,2002,150,R,8.5,901000.0
+29,29. Psycho,1960,109,R,8.5,712000.0
+30,30. Gladiator,2000,155,R,8.5,1600000.0
+31,31. The Lion King,1994,88,G,8.5,1100000.0
+32,32. Grave of the Fireflies,1988,89,Not Rated,8.5,305000.0
+33,33. Léon: The Professional,1994,110,R,8.5,1200000.0
+34,34. The Departed,2006,151,R,8.5,1400000.0
+35,35. American History X,1998,119,R,8.5,1200000.0
+36,36. The Prestige,2006,130,PG-13,8.5,1400000.0
+37,37. Whiplash,2014,106,R,8.5,970000.0
+38,38. Casablanca,1942,102,PG,8.5,601000.0
+39,39. The Usual Suspects,1995,106,R,8.5,1100000.0
+40,40. Modern Times,1936,87,G,8.5,257000.0
+41,41. Rear Window,1954,112,PG,8.5,518000.0
+42,42. Alien,1979,117,R,8.5,940000.0
+43,43. Apocalypse Now,1979,147,R,8.4,704000.0
+44,44. Django Unchained,2012,165,R,8.5,1700000.0
+45,45. Memento,2000,113,R,8.4,1300000.0
+46,46. WALL·E,2008,98,G,8.4,1200000.0
+47,47. Raiders of the Lost Ark,1981,115,PG,8.4,1000000.0
+48,48. Witness for the Prosecution,1957,116,Approved,8.4,136000.0
+49,49. Sunset Blvd.,1950,110,Passed,8.4,234000.0
+50,50. Paths of Glory,1957,88,Approved,8.4,210000.0
+51,51. Avengers: Infinity War,2018,149,PG-13,8.4,1200000.0
+52,52. The Great Dictator,1940,125,G,8.4,236000.0
+53,53. Spider-Man: Into the Spider-Verse,2018,117,PG,8.4,658000.0
+54,54. The Shining,1980,146,R,8.4,1100000.0
+55,55. Aliens,1986,137,R,8.4,756000.0
+56,56. The Dark Knight Rises,2012,164,PG-13,8.4,1800000.0
+57,57. Poor Things,2023,141,R,8.4,81000.0
+58,58. Inglourious Basterds,2009,153,R,8.4,1600000.0
+59,59. Coco,2017,105,PG,8.4,579000.0
+60,60. Avengers: Endgame,2019,181,PG-13,8.4,1200000.0
+61,61. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,PG,8.4,514000.0
+62,62. Amadeus,1984,160,PG,8.4,424000.0
+63,63. Oppenheimer,2023,-1,R,8.4,630000.0
+64,64. Joker,2019,122,R,8.4,1500000.0
+65,65. American Beauty,1999,122,R,8.3,1200000.0
+66,66. Braveheart,1995,178,R,8.3,1100000.0
+67,67. Toy Story,1995,81,G,8.3,1100000.0
+68,68. Good Will Hunting,1997,126,R,8.3,1100000.0
+69,69. Once Upon a Time in America,1984,229,R,8.3,374000.0
+70,70. Singin' in the Rain,1952,103,G,8.3,258000.0
+71,71. Hamilton,2020,160,PG-13,8.3,111000.0
+72,72. Requiem for a Dream,2000,102,Unrated,8.3,891000.0
+73,73. Toy Story 3,2010,103,G,8.3,885000.0
+74,74. Star Wars: Episode VI - Return of the Jedi,1983,131,PG,8.3,1100000.0
+75,75. The Apartment,1960,125,Approved,8.3,195000.0
+76,76. Eternal Sunshine of the Spotless Mind,2004,108,R,8.3,1100000.0
+77,77. 2001: A Space Odyssey,1968,149,G,8.3,712000.0
+78,78. Double Indemnity,1944,107,Passed,8.3,166000.0
+79,79. Lawrence of Arabia,1962,218,Approved,8.3,311000.0
+80,80. Reservoir Dogs,1992,99,R,8.3,1100000.0
+81,81. North by Northwest,1959,136,Approved,8.3,344000.0
+82,82. Citizen Kane,1941,119,PG,8.3,462000.0
+83,83. Vertigo,1958,128,PG,8.3,423000.0
+84,84. Scarface,1983,170,18+,8.3,906000.0
+85,85. To Kill a Mockingbird,1962,129,Approved,8.3,331000.0
+86,86. The Sting,1973,129,PG,8.3,277000.0
+87,87. Full Metal Jacket,1987,116,R,8.3,783000.0
+88,88. Heat,1995,170,R,8.3,711000.0
+89,89. A Clockwork Orange,1971,136,X,8.3,874000.0
+90,90. Judgment at Nuremberg,1961,179,Approved,8.3,84000.0
+91,91. Up,2009,96,PG,8.3,1100000.0
+92,92. Indiana Jones and the Last Crusade,1989,127,PG-13,8.2,805000.0
+93,93. Die Hard,1988,132,R,8.2,938000.0
+94,94. The Kid,1921,68,Passed,8.2,134000.0
+95,95. Snatch,2000,102,R,8.2,901000.0
+96,96. 1917,2019,119,R,8.2,663000.0
+97,97. L.A. Confidential,1997,138,R,8.2,613000.0
+98,98. All About Eve,1950,138,Passed,8.2,138000.0
+99,99. Taxi Driver,1976,114,R,8.2,909000.0
+100,100. The Father,2020,97,PG-13,8.2,188000.0
+101,101. Some Like It Hot,1959,121,Passed,8.2,281000.0
+102,102. Top Gun: Maverick,2022,130,PG-13,8.3,673000.0
+103,103. Batman Begins,2005,140,PG-13,8.2,1600000.0
+104,104. The Wolf of Wall Street,2013,-1,R,8.2,1600000.0
+105,105. Green Book,2018,130,PG-13,8.2,556000.0
+106,106. Shutter Island,2010,138,R,8.2,1400000.0
+107,107. The Truman Show,1998,103,PG,8.2,1200000.0
+108,108. The Treasure of the Sierra Madre,1948,126,Passed,8.2,131000.0
+109,109. Casino,1995,178,R,8.2,558000.0
+110,110. There Will Be Blood,2007,158,R,8.2,635000.0
+111,111. Jurassic Park,1993,127,PG-13,8.2,1100000.0
+112,112. Unforgiven,1992,130,R,8.2,433000.0
+113,113. The Sixth Sense,1999,107,PG-13,8.2,1000000.0
+114,114. A Beautiful Mind,2001,135,PG-13,8.2,979000.0
+115,115. The Great Escape,1963,172,Approved,8.2,257000.0
+116,116. The Thing,1982,109,R,8.2,461000.0
+117,117. No Country for Old Men,2007,122,R,8.2,1000000.0
+118,118. Monty Python and the Holy Grail,1975,91,PG,8.2,566000.0
+119,119. Kill Bill: Vol. 1,2003,111,R,8.2,1200000.0
+120,120. The Elephant Man,1980,124,PG,8.2,256000.0
+121,121. Gone with the Wind,1939,238,Passed,8.2,331000.0
+122,122. Dial M for Murder,1954,105,PG,8.2,187000.0
+123,123. Finding Nemo,2003,100,G,8.2,1100000.0
+124,124. Spider-Man: No Way Home,2021,148,PG-13,8.2,862000.0
+125,125. Chinatown,1974,130,R,8.1,346000.0
+126,126. Klaus,2019,96,PG,8.2,186000.0
+127,127. V for Vendetta,2005,132,R,8.2,1200000.0
+128,128. Prisoners,2013,153,R,8.1,796000.0
+129,129. The Bridge on the River Kwai,1957,161,PG,8.1,232000.0
+130,"130. Lock, Stock and Two Smoking Barrels",1998,107,R,8.1,611000.0
+131,131. Raging Bull,1980,129,R,8.1,377000.0
+132,132. Inside Out,2015,95,PG,8.1,775000.0
+133,133. Warrior,2011,140,PG-13,8.1,494000.0
+134,"134. Three Billboards Outside Ebbing, Missouri",2017,115,R,8.1,549000.0
+135,135. Trainspotting,1996,93,R,8.1,720000.0
+136,136. To Be or Not to Be,1942,99,Passed,8.1,42000.0
+137,137. Barry Lyndon,1975,185,PG,8.1,181000.0
+138,138. Fargo,1996,98,R,8.1,719000.0
+139,139. Catch Me If You Can,2002,141,PG-13,8.1,1100000.0
+140,140. Harry Potter and the Deathly Hallows: Part 2,2011,130,PG-13,8.1,938000.0
+141,141. Ben-Hur,1959,212,G,8.1,251000.0
+142,142. Gran Torino,2008,116,R,8.1,809000.0
+143,143. Mr. Smith Goes to Washington,1939,129,Passed,8.1,121000.0
+144,144. The Best Years of Our Lives,1946,170,Approved,8.1,70000.0
+145,145. Before Sunrise,1995,101,R,8.1,335000.0
+146,146. In the Name of the Father,1993,133,R,8.1,186000.0
+147,147. On the Waterfront,1954,108,Approved,8.1,163000.0
+148,148. Million Dollar Baby,2004,132,PG-13,8.1,717000.0
+149,149. Blade Runner,1982,117,R,8.1,815000.0
+150,150. Mary and Max,2009,92,Not Rated,8.1,186000.0
+151,151. 12 Years a Slave,2013,134,R,8.1,736000.0
+152,152. Hacksaw Ridge,2016,139,R,8.1,585000.0
+153,153. The Grand Budapest Hotel,2014,99,R,8.1,877000.0
+154,154. The Third Man,1949,93,Approved,8.1,180000.0
+155,155. Dead Poets Society,1989,128,PG,8.1,537000.0
+156,156. Gone Girl,2014,149,R,8.1,1100000.0
+157,157. The Deer Hunter,1978,183,R,8.1,359000.0
+158,158. How to Train Your Dragon,2010,98,PG,8.1,792000.0
+159,159. Mad Max: Fury Road,2015,-1,R,8.1,1100000.0
+160,160. Ford v Ferrari,2019,152,PG-13,8.1,456000.0
+161,"161. Monsters, Inc.",2001,92,G,8.1,969000.0
+162,162. Jaws,1975,124,PG,8.1,653000.0
+163,163. The Grapes of Wrath,1940,129,Passed,8.1,99000.0
+164,164. Ratatouille,2007,111,G,8.1,812000.0
+165,165. The Red Shoes,1948,135,Not Rated,8.1,39000.0
+166,166. Room,2015,118,R,8.1,446000.0
+167,167. The Big Lebowski,1998,117,R,8.1,853000.0
+168,168. All Quiet on the Western Front,1930,152,Passed,8.1,67000.0
+169,169. Hotel Rwanda,2004,121,PG-13,8.1,370000.0
+170,170. Rocky,1976,-1,PG,8.1,622000.0
+171,171. Logan,2017,137,R,8.1,820000.0
+172,172. Network,1976,121,R,8.1,169000.0
+173,173. Paper Moon,1973,102,PG,8.1,52000.0
+174,174. Hachi: A Dog's Tale,2009,93,G,8.1,308000.0
+175,175. Before Sunset,2004,80,R,8.1,285000.0
+176,176. Spotlight,2015,129,R,8.1,498000.0
+177,177. Platoon,1986,-1,R,8.1,436000.0
+178,178. The Sound of Music,1965,172,G,8.1,258000.0
+179,179. It Happened One Night,1934,105,Passed,8.1,111000.0
+180,180. Rebecca,1940,130,Approved,8.1,145000.0
+181,181. Rush,2013,123,R,8.1,508000.0
+182,182. The Terminator,1984,107,R,8.1,916000.0
+183,183. Stand by Me,1986,89,R,8.1,437000.0
+184,184. The Wizard of Oz,1939,102,G,8.1,425000.0
+185,185. The Exorcist,1973,122,R,8.1,450000.0
+186,186. Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,PG-13,8.1,1200000.0
+187,187. Cool Hand Luke,1967,127,GP,8.1,187000.0
+188,188. Into the Wild,2007,148,R,8.1,653000.0
+189,189. The Man Who Shot Liberty Valance,1962,123,Approved,8.1,82000.0
+190,"190. Paris, Texas",1984,145,R,8.1,117000.0
+191,191. Inherit the Wind,1960,128,Passed,8.1,33000.0
+192,192. The Iron Giant,1999,86,PG,8.1,223000.0
+193,193. The Incredibles,2004,115,PG,8.0,799000.0
+194,194. Ace in the Hole,1951,111,Approved,8.1,39000.0
+195,195. White Heat,1949,114,Not Rated,8.1,35000.0
+196,196. The Help,2011,146,PG-13,8.1,488000.0
+197,197. Groundhog Day,1993,101,PG,8.0,678000.0
+198,198. Gandhi,1982,191,PG,8.0,239000.0
+199,199. Scent of a Woman,1992,156,R,8.0,325000.0
+200,200. Dances with Wolves,1990,181,PG-13,8.0,287000.0
+201,201. Life of Brian,1979,94,R,8.0,420000.0
+202,202. Beauty and the Beast,1991,84,G,8.0,476000.0
+203,203. Aladdin,1992,90,G,8.0,461000.0
+204,204. Guardians of the Galaxy,2014,121,PG-13,8.0,1300000.0
+205,205. Roman Holiday,1953,118,Passed,8.0,146000.0
+206,206. Kill Bill: Vol. 2,2004,137,R,8.0,797000.0
+207,207. Dog Day Afternoon,1975,125,R,8.0,271000.0
+208,208. A Woman Under the Influence,1974,155,R,8.1,28000.0
+209,209. Soul,2020,100,PG,8.0,373000.0
+210,210. Lion,2016,118,PG-13,8.0,249000.0
+211,211. JFK,1991,189,R,8.0,169000.0
+212,212. Song of the Sea,2014,93,PG,8.0,63000.0
+213,213. The Princess Bride,1987,98,PG,8.0,448000.0
+214,214. Rosemary's Baby,1968,137,Approved,8.0,233000.0
+215,215. Donnie Darko,2001,113,R,8.0,843000.0
+216,216. Anatomy of a Murder,1959,161,Not Rated,8.0,71000.0
+217,217. Brief Encounter,1945,86,Not Rated,8.0,44000.0
+218,218. Slumdog Millionaire,2008,-1,R,8.0,873000.0
+219,219. The Shop Around the Corner,1940,99,Not Rated,8.0,38000.0
+220,220. The Imitation Game,2014,114,PG-13,8.0,817000.0
+221,221. La La Land,2016,128,PG-13,8.0,657000.0
+222,222. Butch Cassidy and the Sundance Kid,1969,110,PG,8.0,226000.0
+223,223. The Avengers,2012,143,PG-13,8.0,1400000.0
+224,224. Dune,2021,155,PG-13,8.0,756000.0
+225,225. Casino Royale,2006,144,PG-13,8.0,690000.0
+226,226. What Ever Happened to Baby Jane?,1962,134,Passed,8.0,61000.0
+227,227. The Bourne Ultimatum,2007,115,PG-13,8.0,655000.0
+228,228. Magnolia,1999,188,R,8.0,326000.0
+229,229. Black Swan,2010,108,R,8.0,817000.0
+230,230. The King's Speech,2010,118,R,8.0,704000.0
+231,231. Rain Man,1988,133,R,8.0,542000.0
+232,232. The Martian,2015,144,PG-13,8.0,913000.0
+233,233. The Message,1976,177,PG,8.1,50000.0
+234,234. The Pursuit of Happyness,2006,117,PG-13,8.0,554000.0
+235,235. Sin City,2005,124,R,8.0,791000.0
+236,236. Dogville,2003,178,R,8.0,157000.0
+237,237. The Legend of 1900,1998,169,R,8.0,69000.0
+238,238. Secrets & Lies,1996,136,R,8.0,47000.0
+239,239. Kind Hearts and Coronets,1949,106,Not Rated,8.0,39000.0
+240,240. Zootopia,2016,108,PG,8.0,539000.0
+241,241. Who's Afraid of Virginia Woolf?,1966,131,Not Rated,8.0,79000.0
+242,242. Planet of the Apes,1968,112,G,8.0,191000.0
+243,243. The Straight Story,1999,112,G,8.0,97000.0
+244,244. The Graduate,1967,106,PG,8.0,287000.0
+245,245. Sweet Smell of Success,1957,96,Approved,8.0,35000.0
+246,246. The Night of the Hunter,1955,92,Not Rated,8.0,96000.0
+247,247. Blade Runner 2049,2017,164,R,8.0,647000.0
+248,248. Papillon,1973,151,R,8.0,138000.0
+249,249. 12 Monkeys,1995,129,R,8.0,643000.0
+250,250. Blood Diamond,2006,143,R,8.0,581000.0

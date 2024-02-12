@@ -1,0 +1,101 @@
+movie_id,movie_name,movie_year,duration_min,rated,movie_rating,vote_count
+1,Poor Things,2023,141,R,8.4,81000.0
+2,Argylle,2024,139,PG-13,6.0,19000.0
+3,Saltburn,2023,131,R,7.0,166000.0
+4,The Beekeeper,2024,105,R,6.4,44000.0
+5,The Ministry of Ungentlemanly Warfare,2024,-1,-1,-1.0,-1.0
+6,Road House,2024,114,R,-1.0,-1.0
+7,The Holdovers,2023,133,R,8.0,90000.0
+8,Killers of the Flower Moon,2023,206,R,7.7,197000.0
+9,Fighter,2024,166,-1,7.4,35000.0
+10,Oppenheimer,2023,-1,R,8.4,630000.0
+11,Animal,2023,204,Not Rated,6.4,79000.0
+12,Wonka,2023,116,PG,7.1,91000.0
+13,Society of the Snow,2023,144,R,7.9,94000.0
+14,The Zone of Interest,2023,105,PG-13,7.9,14000.0
+15,Anyone But You,2023,103,R,6.5,23000.0
+16,Anatomy of a Fall,2023,151,R,7.8,61000.0
+17,Mean Girls,2024,112,PG-13,6.2,13000.0
+18,All of Us Strangers,2023,105,R,7.9,15000.0
+19,Aquaman and the Lost Kingdom,2023,124,PG-13,5.7,53000.0
+20,Badland Hunters,2024,107,TV-MA,6.0,6300.0
+21,The Hill,2023,126,PG,6.7,4200.0
+22,Madame Web,2024,117,PG-13,-1.0,-1.0
+23,Barbie,2023,114,PG-13,6.9,489000.0
+24,Lift,2024,107,PG-13,5.5,31000.0
+25,Miller's Girl,2024,93,R,5.5,1400.0
+26,Mission: Impossible - Dead Reckoning Part One,2023,163,PG-13,7.7,226000.0
+27,Ferrari,2023,130,R,6.6,25000.0
+28,Despicable Me 4,2024,-1,-1,-1.0,-1.0
+29,Ghostbusters: Frozen Empire,2024,-1,-1,-1.0,-1.0
+30,Dune: Part Two,2024,166,PG-13,-1.0,-1.0
+31,Monkey Man,2024,113,R,-1.0,-1.0
+32,American Fiction,2023,117,R,7.7,18000.0
+33,Groundhog Day,1993,101,PG,8.0,678000.0
+34,The Creator,2023,133,PG-13,6.8,138000.0
+35,The Postcard Killings,2020,104,Not Rated,5.8,15000.0
+36,Past Lives,2023,105,PG-13,7.9,80000.0
+37,Migration,2023,83,PG,6.7,14000.0
+38,12th Fail,2023,147,-1,9.1,96000.0
+39,Godzilla Minus One,2023,124,PG-13,8.3,43000.0
+40,Maestro,2023,129,R,6.6,46000.0
+41,X,2022,105,R,6.5,165000.0
+42,The Underdoggs,2024,96,R,5.5,2500.0
+43,Napoleon,2023,158,R,6.4,107000.0
+44,The Iron Claw,2023,132,R,8.0,19000.0
+45,Dune,2021,155,PG-13,8.0,756000.0
+46,Leave the World Behind,2023,138,R,6.5,177000.0
+47,The Kitchen,2023,107,R,4.8,6300.0
+48,Road House,1989,114,R,6.7,86000.0
+49,Night Swim,2024,98,PG-13,4.7,11000.0
+50,Deep Fear,2023,84,-1,4.3,7800.0
+51,Orion and the Dark,2024,93,TV-Y7,6.4,5800.0
+52,The Boys in the Boat,2023,123,PG-13,7.0,9300.0
+53,The Favourite,2018,119,R,7.5,224000.0
+54,No Hard Feelings,2023,103,R,6.4,145000.0
+55,Dumb Money,2023,105,R,6.9,33000.0
+56,Wish,2023,95,PG,5.7,20000.0
+57,DogMan,2023,113,R,6.7,5600.0
+58,Rebel Moon - Part One: A Child of Fire,2023,133,PG-13,5.6,97000.0
+59,Nyad,2023,121,PG-13,7.1,25000.0
+60,Salaar,2023,175,-1,6.5,58000.0
+61,Bob Marley: One Love,2024,104,PG-13,-1.0,-1.0
+62,Beetlejuice Beetlejuice,2024,-1,-1,-1.0,-1.0
+63,May December,2023,117,R,6.9,42000.0
+64,Once Upon a Time in Hollywood,2019,161,R,7.6,831000.0
+65,Role Play,2023,100,R,5.5,12000.0
+66,Fried Green Tomatoes,1991,130,PG-13,7.7,82000.0
+67,How to Have Sex,2023,91,-1,6.5,9800.0
+68,Deadpool & Wolverine,2024,-1,-1,-1.0,-1.0
+69,The Hunger Games: The Ballad of Songbirds & Snakes,2023,157,PG-13,6.8,96000.0
+70,Mean Girls,2004,97,PG-13,7.1,428000.0
+71,The Shawshank Redemption,1994,142,R,9.3,2900000.0
+72,Hanu Man,2024,158,-1,8.5,17000.0
+73,Interstellar,2014,169,PG-13,8.7,2100000.0
+74,The Killing of a Sacred Deer,2017,121,R,7.0,182000.0
+75,The Color Purple,2023,141,PG-13,7.1,8900.0
+76,The Boy and the Heron,2023,124,PG-13,7.6,42000.0
+77,Self Reliance,2023,85,R,6.1,9700.0
+78,The Marvels,2023,105,PG-13,5.6,97000.0
+79,The Godfather,1972,175,R,9.2,2000000.0
+80,The Batman,2022,176,PG-13,7.8,769000.0
+81,Longlegs,2024,101,R,-1.0,-1.0
+82,Thanksgiving,2023,106,R,6.4,34000.0
+83,Sound of Freedom,2023,131,PG-13,7.7,107000.0
+84,Spider-Man: Across the Spider-Verse,2023,140,PG,8.6,344000.0
+85,Top Gun: Maverick,2022,130,PG-13,8.3,673000.0
+86,Lisa Frankenstein,2024,101,PG-13,6.6,1500.0
+87,Everything Everywhere All at Once,2022,139,R,7.8,515000.0
+88,Silent Night,2021,92,Not Rated,5.7,19000.0
+89,The Florida Project,2017,111,R,7.6,126000.0
+90,Indiana Jones and the Dial of Destiny,2023,154,PG-13,6.6,188000.0
+91,Gladiator 2,2024,-1,-1,-1.0,-1.0
+92,Dream Scenario,2023,102,R,7.0,36000.0
+93,Trolls Band Together,2023,91,PG,6.0,11000.0
+94,The Dark Knight,2008,152,PG-13,9.0,2800000.0
+95,Priscilla,2023,113,R,6.7,23000.0
+96,Queenpins,2021,110,R,6.4,21000.0
+97,Fast X,2023,141,PG-13,5.8,114000.0
+98,The Family Plan,2023,118,PG-13,6.3,35000.0
+99,American Star,2024,107,R,5.3,775.0
+100,Ambulance,2022,136,R,6.1,95000.0
